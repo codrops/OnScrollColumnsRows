@@ -2,7 +2,7 @@
 
 Scroll-driven animations for columns and rows powered by GSAP.
 
-![On-Scroll Column & Row Animations](https://generative-placeholders.glitch.me/image?width=800&height=600")
+![On-Scroll Column & Row Animations](https://tympanus.net/codrops/wp-content/uploads/2023/08/OnScrollColumns.jpg)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=73182)
 
